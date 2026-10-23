@@ -70,3 +70,8 @@ h3{font-size:1.35rem;color:var(--navy);margin:4px 0 10px}
 
 .pay-note{margin:-6px 0 22px;font-size:.92rem;color:#4a5866}
 .pack__launch{margin:10px 0 14px;font-size:.98rem}
+.guide__in{max-width:760px}.guide h2{margin-top:34px}.guide .crumbs{margin:0 0 8px}
+.tbl{overflow-x:auto;margin:14px 0}.tbl table{border-collapse:collapse;width:100%;min-width:300px}
+.tbl th,.tbl td{border:1px solid #d3e8ea;padding:9px 12px;text-align:left}.tbl th{background:var(--teal-xl);color:var(--navy)}
+.guide__cta{background:var(--cream);border-radius:12px;padding:16px 18px;margin:30px 0}
+.guide__list li{margin:8px 0;font-size:1.1rem}

@@ -75,3 +75,5 @@ h3{font-size:1.35rem;color:var(--navy);margin:4px 0 10px}
 .tbl th,.tbl td{border:1px solid #d3e8ea;padding:9px 12px;text-align:left}.tbl th{background:var(--teal-xl);color:var(--navy)}
 .guide__cta{background:var(--cream);border-radius:12px;padding:16px 18px;margin:30px 0}
 .guide__list li{margin:8px 0;font-size:1.1rem}
+
+.cv__fig{margin:22px 0}.cv__fig img{display:block;width:100%;height:auto;border:1px solid #dbe9ec;border-radius:10px}.cv__fig figcaption{padding:6px 2px 0}

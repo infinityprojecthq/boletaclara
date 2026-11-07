@@ -77,3 +77,4 @@ h3{font-size:1.35rem;color:var(--navy);margin:4px 0 10px}
 .guide__list li{margin:8px 0;font-size:1.1rem}
 
 .cv__fig{margin:22px 0}.cv__fig img{display:block;width:100%;height:auto;border:1px solid #dbe9ec;border-radius:10px}.cv__fig figcaption{padding:6px 2px 0}
+.answer{border-left:4px solid var(--navy,#1F3A5F);background:var(--cream);border-radius:8px;padding:12px 16px;margin:18px 0}.answer__k{font-weight:700;margin:0 0 4px;font-size:.9em;text-transform:uppercase;letter-spacing:.04em}.answer p{margin:0}.answer p+p{margin-top:6px}
